@@ -85,9 +85,6 @@
   - [排序模型&模型融合](docs/ch03/ch3.1/markdown/ch3.1.5.md)
 
 #### **新闻推荐系统实践**
-- [特别说明(必看)](docs/ch03/ch3.2/3.2.md)
-- **视频**
-  - [新闻推荐系统流程的构建视频讲解](https://datawhale.feishu.cn/minutes/obcnzns778b725r5l535j32o)
 - **文档**
   - **离线物料系统的构建**
       - [Mysql基础](docs/ch03/ch3.2/3.2.1.1.md)
