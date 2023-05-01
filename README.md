@@ -1,12 +1,3 @@
-# FunRec-[在线阅读](https://datawhalechina.github.io/fun-rec/#/)
-<p align="left">
-  <img src='https://img.shields.io/badge/python-3.8+-blue'>
-  <img src='https://img.shields.io/badge/Tensorflow-2.2+-blue'>
-  <img src='https://img.shields.io/badge/NumPy-1.22.3-brightgreen'>
-  <img src='https://img.shields.io/badge/pandas-1.4.1-brightgreen'>
-  <img src='https://img.shields.io/badge/sklearn-1.0.2-brightgreen'>
-</p> 
-
 本教程主要是针对具有机器学习基础并想找推荐算法岗位的同学。教程内容由推荐系统概述、推荐算法基础、推荐系统实战和推荐系统面经四个部分组成。本教程对于入门推荐算法的同学来说，可以从推荐算法的基础到实战再到面试，形成一个闭环。每个部分的详细内容如下：
 
 - **推荐系统概述。** 这部分内容会从推荐系统的意义及应用，到架构及相关的技术栈做一个概述性的总结，目的是为了让初学者更加了解推荐系统。
