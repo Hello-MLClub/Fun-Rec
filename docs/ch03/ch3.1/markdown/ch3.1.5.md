@@ -946,7 +946,3 @@ submit(rank_results, topk=5, model_name='ensumble_staking')
 # 总结
 
 本章主要学习了三个排序模型，包括LGB的Rank， LGB的Classifier还有深度学习的DIN模型， 当然，对于这三个模型的原理部分，我们并没有给出详细的介绍， 请大家课下自己探索原理，也欢迎大家把自己的探索与所学分享出来，我们一块学习和进步。最后，我们进行了简单的模型融合策略，包括简单的加权和Stacking。
-
-关于Datawhale： Datawhale是一个专注于数据科学与AI领域的开源组织，汇集了众多领域院校和知名企业的优秀学习者，聚合了一群有开源精神和探索精神的团队成员。Datawhale 以“for the learner，和学习者一起成长”为愿景，鼓励真实地展现自我、开放包容、互信互助、敢于试错和勇于担当。同时 Datawhale 用开源的理念去探索开源内容、开源学习和开源方案，赋能人才培养，助力人才成长，建立起人与人，人与知识，人与企业和人与未来的联结。 本次数据挖掘路径学习，专题知识将在天池分享，详情可关注Datawhale：
-
-![image-20201119112159065](http://ryluo.oss-cn-chengdu.aliyuncs.com/abc/image-20201119112159065.png)
