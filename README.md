@@ -86,11 +86,6 @@
 ### 推荐系统实战
 
 #### **竞赛实践(天池入门赛-新闻推荐【建议使用tf1.14】)**
-- **视频**
-  - [赛题理解](https://www.bilibili.com/video/BV1do4y1d7FP?p=1)
-  - [多路召回](https://www.bilibili.com/video/BV1do4y1d7FP?p=4)
-  - [特征工程](https://www.bilibili.com/video/BV1do4y1d7FP?p=2)
-  - [上分技巧](https://www.bilibili.com/video/BV1do4y1d7FP?p=3)
 - **文档**
   - [赛题理解&Baseline](docs/ch03/ch3.1/markdown/ch3.1.1.md)
   - [数据分析](docs/ch03/ch3.1/markdown/ch3.1.2.md)
